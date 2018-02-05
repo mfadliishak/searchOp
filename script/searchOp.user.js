@@ -5,7 +5,7 @@
 // @license        MIT
 // @description    Make the selection searchable (FOR INTERNAL USE ONLY)
 // @namespace      https://github.com/mfadliishak/searchOp
-// @icon           https://mfadliishak.github.io/favicon.png
+// @icon           https://mfadliishak.github.io/favicon-small.png
 // @match          *://atms.asiaebroker.com/*
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
 // @require        https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.4/js/standalone/selectize.js
